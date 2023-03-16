@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Enaz</h1>
 <p>Fullstack developer from Melbourne 🇦🇺<p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **JavaScript & React**
 
 - 📫 Reach me here >> **enazrbanks@gmail.com**
 
