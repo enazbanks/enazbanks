@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Enaz</h1>
 <p>Junior developer from Melbourne 🇦🇺<p>
 
-- 🌱 I’m currently learning **JavaScript & Python **
+- 🌱 I’m currently learning **JavaScript & Python**
 
 - 📫 Reach me here >> **enazrbanks@gmail.com**
 
